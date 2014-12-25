@@ -1,0 +1,6 @@
+[submodule "modules/dlangeditor"]
+	path = modules/dlangeditor
+	url = https://github.com/Groterik/qtcreator-dlangeditor.git
+[submodule "modules/dubprojectmanager"]
+	path = modules/dubprojectmanager
+	url = https://github.com/Groterik/qtcreator-dubmanager.git
