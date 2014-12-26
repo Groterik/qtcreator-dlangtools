@@ -1,7 +1,9 @@
 About
 ====================
 
-qtcreator-dlangtools is a master project for QtCreator dlang plugins. It aims to simplify building and installation of other plugins.
+qtcreator-dlangtools is a master project for QtCreator dlang plugins. It aims to simplify building and installation of other plugins:
+ * [qtcreator-dlangeditor](https://github.com/Groterik/qtcreator-dlangeditor)
+ * [qtcreator-dubmanager](https://github.com/Groterik/qtcreator-dubmanager)
 
 Building requirements
 ====================
