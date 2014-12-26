@@ -11,6 +11,8 @@ Building requirements
 Building & Installation
 ===================
  
+ 1. clone repository
+ 1. git submodule update --init
  1. qmake "QTC_SOURCE=$MY_QTCREATOR_SOURCE_PATH" "QTC_BUILD=$MY_QTCREATOR_LIB_PATH"
  1. make
  
